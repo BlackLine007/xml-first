@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<articles>
+	<article id_art="1" name="name1" code="code1" username="username1" guid="guide1"/>
+	<article id_art="2" name="name2" code="code2" username="username2" guid="guide2"/>
+	<article id_art="3" name="name3" code="code3" username="username3" guid="guide3"/>
+	<article id_art="4" name="name4" code="code4" username="username4" guid="guide4"/>
+	<article id_art="5" name="name5" code="code5" username="username5" guid="guide5"/>
+	<article id_art="6" name="name6" code="code6" username="username6" guid="guide6"/>
+	<article id_art="7" name="name7" code="code7" username="username7" guid="guide7"/>
+	<article id_art="8" name="name8" code="code8" username="username8" guid="guide8"/>
+	<article id_art="9" name="name9" code="code9" username="username9" guid="guide9"/>
+	<article id_art="10" name="name10" code="code10" username="username10" guid="guide10"/>
+</articles>
